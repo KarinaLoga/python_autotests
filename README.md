@@ -12,7 +12,6 @@
 
 Ожидаемый ответ: 
 * response `status code` = 200
-* в ответе в `json` приходит корректное поле `trainer_name`
 * в ответе приходит корректное поле id в json
 
 ## Детали реализации
@@ -20,5 +19,5 @@
 1. Автотесты написаны с применением PyTest
 2. Используется библиотека Requests
 
-![image](https://raw.githubusercontent.com/KarinaLoga/python_autotests/refs/heads/main/Screenshot_8.png)
+![image](https://raw.githubusercontent.com/KarinaLoga/python_autotests/refs/heads/main/Screenshot_9.png)
 
